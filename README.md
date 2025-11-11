@@ -1,2 +1,7 @@
-# CPE201A_AngelaMayDiez
-This repository is only for CPE201A
+#CPE201A - Computer System Administration
+
+Student: Angela May R. Diez
+Course: CPE 201A
+Activity: SSH Key-Based Authentication and Git Setup
+
+This repository contains lab activities for Computer System Administration.
